@@ -1,0 +1,6 @@
+{
+  "name": "Vendora",
+  "description": "An advanced AI-powered Commerce Platform with real-time simulated personalization, persona detection, trend prediction, concierge, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
